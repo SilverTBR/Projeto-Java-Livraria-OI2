@@ -1,0 +1,4 @@
+Controller\AluguelDAOTest.class
+Controller\LivroDAOTest.class
+Controller\ClienteDAOTest.class
+Controller\RenovarDAOTest.class
